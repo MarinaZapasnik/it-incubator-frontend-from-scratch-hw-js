@@ -2,4 +2,13 @@
 // Результат присвойте переменной sum
 
 // your code
-let sum
+let sum = 0;
+let index = 1;
+while (index <= 20) {
+    sum = sum + index;
+    index ++;
+}
+
+
+
+
